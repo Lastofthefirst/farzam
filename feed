@@ -9,11 +9,11 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Bill Lumbergh]]></title>
-            <guid>5</guid>
-            <id>5</id>
+            <title><![CDATA[Introduction]]></title>
+            <guid>1</guid>
+            <id>1</id>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[He’s going to need you to go ahead and come in on Saturday, but there’s a lot more to the story than you think.]]></description>
+            <description><![CDATA[The introduction to the talk about...]]></description>
             <content:encoded><![CDATA[<h2 id="topics">Topics</h2>
 <ul>
 <li>What are TPS reports exactly, and what’s the motivation for adding the cover sheet?</li>
@@ -34,7 +34,7 @@
 <li>“What’s happening?”, Bill’s new book on effective management <a href="#">on Amazon</a></li>
 </ul>
 ]]></content:encoded>
-            <enclosure length="0" type="audio/mpeg" url="https://their-side-feed.vercel.app/episode-005.mp3"/>
+            <enclosure length="0" type="audio/mpeg" url="https://raw.githubusercontent.com/Lastofthefirst/farzam/main/01.)%20Introduction.m4a"/>
         </item>
         <item>
             <title><![CDATA[Shooter McGavin]]></title>
@@ -131,8 +131,8 @@
         </item>
         <item>
             <title><![CDATA[Skeletor]]></title>
-            <guid>1</guid>
-            <id>1</id>
+            <guid>6</guid>
+            <id>6</id>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[You know him as an evil supervillain, but his closest friends call him Jeff, and he's just doing his best to find his way in a world that doesn't know what to do with a talking skeleton.]]></description>
             <content:encoded><![CDATA[<h2 id="topics">Topics</h2>
