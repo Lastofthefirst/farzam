@@ -3,7 +3,7 @@
     <channel>
         <title>The Intellectual Life of the Bahá’í Community</title>
         <link>undefined</link>
-        <description>Conversations with the most tragically misunderstood people of our time.</description>
+        <description>Our contributions to the advancement of knowledge and civilization.</description>
         <lastBuildDate>Fri, 24 Jun 2022 20:59:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
@@ -13,26 +13,9 @@
             <guid>1</guid>
             <id>1</id>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[He’s going to need you to go ahead and come in on Saturday, but there’s a lot more to the story than you think.]]></description>
-            <content:encoded><![CDATA[<h2 id="topics">Topics</h2>
-<ul>
-<li>What are TPS reports exactly, and what’s the motivation for adding the cover sheet?</li>
-<li>How Bill preserves such a cool and calm demeanor, despite the extreme consequences Initech faces for not finishing their Y2K upgrades on time, and why it’s important to protect the staff from that stress</li>
-<li>Why suspenders and belts aren’t enough on their own, and should be used together</li>
-<li>The backstory behind how Bill purchased his Porsche 911</li>
-<li>The real reason he needed the red stapler for himself</li>
-</ul>
-<h2 id="sponsors">Sponsors</h2>
-<ul>
-<li><a href="#">Initech</a> — Pioneers of the TPS report, Initech is actively looking for job-seekers with people skills who can work with customers to gather specifications and deliver them to the software people.</li>
-<li><a href="#">Globex Corporation</a> — Just a friendly and innocent high-tech company, with a casual work environment and an office without walls. Anything you’ve heard about a “doomsday device” is pure conjecture and not based in fact.</li>
-</ul>
-<h2 id="links">Links</h2>
-<ul>
-<li>Bill Lumbergh’s <a href="#">Twitter profile</a></li>
-<li>Bill Lumbergh’s <a href="#">personal website</a></li>
-<li>“What’s happening?”, Bill’s new book on effective management <a href="#">on Amazon</a></li>
-</ul>
+            <description><![CDATA[What will be the contribution of the Bahá’í community's intellectual life?]]></description>
+            <content:encoded><![CDATA[<h2 id="topics">To be added...</h2>
+
 ]]></content:encoded>
             <enclosure length="0" type="audio/mpeg" url="https://raw.githubusercontent.com/Lastofthefirst/farzam/main/01.)%20Introduction.m4a"/>
         </item>
