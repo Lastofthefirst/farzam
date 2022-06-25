@@ -1,4 +1,4 @@
 # farzam
 Talk about the Intellectual life of the Bahá’í community.
 
-Click the files above to download them.
+They can be downloaded at https://github.com/Lastofthefirst/farzam/releases/download/publish/Farzam.zip
