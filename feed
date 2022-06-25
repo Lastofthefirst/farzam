@@ -100,16 +100,22 @@
             <content:encoded>
                 <![CDATA[<h2 id="topics">To be added...</h2>]]>
             </content:encoded>
-            <enclosure length="0" type="audio/mpeg" url="https://raw.githubusercontent.com/Lastofthefirst/farzam/main/06.)%20Beliefs%20about%20Maturity.m4a/>
+            <enclosure length="0" type="audio/mpeg" url="https://raw.githubusercontent.com/Lastofthefirst/farzam/main/06.)%20Beliefs%20about%20Maturity.m4a" />
         </item>
-             <item>
-            <title><![CDATA[Courage]]></title>
+        <item>
+            <title>
+                <![CDATA[Courage]]>
+            </title>
             <guid>7</guid>
             <id>7</id>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[It will require courage.]]></description>
-            <content:encoded><![CDATA[<h2 id=" topics">To be added...</h2>]]></content:encoded>
-            <enclosure length=" 0" type=" audio mpeg" url=" https: raw.githubusercontent.com Lastofthefirst farzam main 07.)%20Courage.m4a />
+            <description>
+                <![CDATA[It will require courage.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<h2 id=" topics">To be added...</h2>]]>
+            </content:encoded>
+            <enclosure length=" 0" type=" audio mpeg" url=" https: raw.githubusercontent.com Lastofthefirst farzam main 07.)%20Courage.m4a" />
         </item>
         <item>
             <title>
@@ -124,16 +130,22 @@
             <content:encoded>
                 <![CDATA[<h2 id="topics">To be added...</h2>]]>
             </content:encoded>
-            <enclosure length="0" type="audio/mpeg" url="https://raw.githubusercontent.com/Lastofthefirst/farzam/main/08.)%20Culture%20that%20is%20not%20Elitist.m4a/>
-        </item>  
-                                                            <item>
-            <title><![CDATA[Harmony between Science and Religion]]></title>
+            <enclosure length="0" type="audio/mpeg" url="https://raw.githubusercontent.com/Lastofthefirst/farzam/main/08.)%20Culture%20that%20is%20not%20Elitist.m4a" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Harmony between Science and Religion]]>
+            </title>
             <guid>9</guid>
             <id>9</id>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[We will need a rigerous understanding of Science and Religion.]]></description>
-            <content:encoded><![CDATA[<h2 id=" topics">To be added...</h2>]]></content:encoded>
-            <enclosure length=" 0" type=" audio mpeg" url=" https: raw.githubusercontent.com Lastofthefirst farzam main 09.)%20Harmony%20between%20Science%20and%20Religion.m4a />
+            <description>
+                <![CDATA[We will need a rigerous understanding of Science and Religion.]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<h2 id=" topics">To be added...</h2>]]>
+            </content:encoded>
+            <enclosure length=" 0" type=" audio mpeg" url=" https: raw.githubusercontent.com Lastofthefirst farzam main 09.)%20Harmony%20between%20Science%20and%20Religion.m4a" />
         </item>
         <item>
             <title>
@@ -148,7 +160,7 @@
             <content:encoded>
                 <![CDATA[<h2 id="topics">To be added...</h2>]]>
             </content:encoded>
-            <enclosure length="0" type="audio/mpeg" url="https://raw.githubusercontent.com/Lastofthefirst/farzam/main/10.)%20Conclusion.m4a/>
-        </item> 
+            <enclosure length="0" type="audio/mpeg" url="https://raw.githubusercontent.com/Lastofthefirst/farzam/main/10.)%20Conclusion.m4a" />
+        </item>
     </channel>
 </rss>
